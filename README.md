@@ -12,7 +12,7 @@ This repository contains a series of data visualizations I have created using Ta
 ## Data Sources
 - **Locard Stores Data**: [Locardstore Sales Dataset](https://github.com/Jaymo-The-Analyst/Locard_Stores_Tableau_Dashboard/blob/main/Locardstore_Sales%20_Dataset.csv)
 
-## Installation (Optional)
+## Installation 
 If you'd like to replicate my analysis, you can download the dataset and Tableau workbook.
 - **Download the Tableau Workbook**: [SalesDashboard.twbx](./workbooks/SalesDashboard.twbx)
 
