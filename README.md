@@ -14,7 +14,7 @@ This repository contains a series of data visualizations I have created using Ta
 
 ## Installation 
 If you'd like to replicate my analysis, you can download the dataset and Tableau workbook.
-- **Download the Tableau Workbook**: [SalesDashboard.twbx](./workbooks/SalesDashboard.twbx)
+- **Download the Tableau Workbook**: [LOCARD STORES DASHBOARD.twb](https://github.com/Jaymo-The-Analyst/Locard_Stores_Tableau_Dashboard/blob/main/LOCARD%20STORES%20%20DASHBOARD.twb)
 
 ## Future Improvements
 - Incorporating predictive analytics for sales forecasting.
